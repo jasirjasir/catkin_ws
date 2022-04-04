@@ -1,0 +1,7 @@
+image: /home/jasir/catkin_ws/src/fluxauto_mapping/src/maps/turtlebot3_maps/cartomap.pgm
+resolution: 0.050000
+origin: [-4.364222, -3.560376, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
